@@ -48,10 +48,12 @@ const Projects = () => {
               imgPath={pg}
               isBlog={false}
               title="Messenger Clone"
-              description="Veva Collect is tailored for the music industry, offering specialized tools for audio management, file sharing, 
-              credit attribution, and metadata organization. Musicians can store, share, collaborate, and manage their music 
-              releases seamlessly, whether they're published or unreleased."
-              ghLink=""
+              description="I recently built a Messenger Clone using Next.js, MongoDB, Prisma, and
+               Tailwind CSS. This project features real-time messaging with seamless chat functionality,
+                utilizing Next.js for server-side rendering to enhance performance and SEO. MongoDB
+                 and Prisma were used for efficient data management and querying, while Tailwind CSS ensured a clean and 
+              responsive UI design. Key features include user authentication, profile management, and real-time updates for an excellent user experience"
+              ghLink="https://github.com/Zain041/messenger-clone"
             />
           </Col>
 
